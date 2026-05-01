@@ -1,0 +1,41 @@
+/* DevFlow Central — Brand Surface Variables */
+:root {
+  --sidebar-bg: #1a2332;
+  --sidebar-hover: #243040;
+  --sidebar-active: #2d3d52;
+  --sidebar-border: #2a3a4e;
+  --sidebar-text: #94a3b8;
+  --sidebar-text-active: #e2e8f0;
+  --sidebar-logo-bg: #0f1923;
+
+  --topbar-bg: #ffffff;
+  --topbar-border: #e2e8f0;
+
+  --kanban-bg: #f1f5f9;
+  --kanban-col-bg: #e9eef5;
+  --kanban-col-border: #dbe4ef;
+  --card-shadow: 0 1px 3px 0 rgba(15, 25, 40, 0.08), 0 1px 2px -1px rgba(15, 25, 40, 0.06);
+  --card-shadow-hover: 0 4px 12px 0 rgba(15, 25, 40, 0.12), 0 2px 6px -2px rgba(15, 25, 40, 0.08);
+
+  --priority-critical: #ef4444;
+  --priority-high: #f97316;
+  --priority-medium: #eab308;
+  --priority-low: #22c55e;
+
+  --status-backlog: #94a3b8;
+  --status-todo: #60a5fa;
+  --status-in-progress: #f59e0b;
+  --status-in-review: #a78bfa;
+  --status-done: #34d399;
+
+  --pr-open: #3b82f6;
+  --pr-merged: #8b5cf6;
+  --pr-closed: #ef4444;
+  --pr-draft: #94a3b8;
+
+  --brand-navy: #1a2332;
+  --brand-blue: #2563eb;
+  --brand-blue-light: #3b82f6;
+  --brand-steel: #64748b;
+  --surface-paper: #f8fafc;
+}
